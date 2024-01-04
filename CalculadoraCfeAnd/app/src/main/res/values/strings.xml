@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculadoraCfeAnd</string>
+    <string-array name="Tarifas">
+        <item>1</item>
+        <item>1A</item>
+        <item>1B</item>
+    </string-array>
+</resources>
